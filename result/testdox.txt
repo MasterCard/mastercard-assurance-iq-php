@@ -1,0 +1,9 @@
+MasterCard\Api\RiskBasedDecisioning\ECommerceMessageConfidence
+ [x] example confidence event
+
+MasterCard\Api\RiskBasedDecisioning\ECommerceMessageScore
+ [x] example score event
+
+MasterCard\Api\RiskBasedDecisioning\ECommerceMessage
+ [x] example notify event
+

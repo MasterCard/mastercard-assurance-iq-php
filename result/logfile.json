@@ -1,0 +1,56 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 3
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageConfidenceTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageConfidenceTest",
+    "test": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageConfidenceTest::test_example_confidence_event"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageConfidenceTest",
+    "test": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageConfidenceTest::test_example_confidence_event",
+    "status": "pass",
+    "time": 1.7300841808319,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageScoreTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageScoreTest",
+    "test": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageScoreTest::test_example_score_event"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageScoreTest",
+    "test": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageScoreTest::test_example_score_event",
+    "status": "pass",
+    "time": 1.2638750076294,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageTest",
+    "test": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageTest::test_example_notify_event"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageTest",
+    "test": "MasterCard\\Api\\RiskBasedDecisioning\\ECommerceMessageTest::test_example_notify_event",
+    "status": "pass",
+    "time": 1.4683818817139,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
