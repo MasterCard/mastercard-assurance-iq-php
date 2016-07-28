@@ -1,0 +1,5 @@
+TAP version 13
+ok 1 - MasterCard\Api\RiskBasedDecisioning\ECommerceMessageConfidenceTest::test_example_confidence_event
+ok 2 - MasterCard\Api\RiskBasedDecisioning\ECommerceMessageScoreTest::test_example_score_event
+ok 3 - MasterCard\Api\RiskBasedDecisioning\ECommerceMessageTest::test_example_notify_event
+1..3

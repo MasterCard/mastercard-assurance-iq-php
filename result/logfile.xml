@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="3" assertions="10" failures="0" errors="0" time="3.555254">
+    <testsuite name="MasterCard\Api\RiskBasedDecisioning\ECommerceMessageConfidenceTest" file="/var/jenkins_home/jobs/MC-RiskBasedDecisioning-Php/workspace/generated-code/risk-based-decisioning/php/sdk/Test/MasterCard/Api/RiskBasedDecisioning/ECommerceMessageConfidenceTest.php" tests="1" assertions="2" failures="0" errors="0" time="1.348800">
+      <testcase name="test_example_confidence_event" class="MasterCard\Api\RiskBasedDecisioning\ECommerceMessageConfidenceTest" file="/var/jenkins_home/jobs/MC-RiskBasedDecisioning-Php/workspace/generated-code/risk-based-decisioning/php/sdk/Test/MasterCard/Api/RiskBasedDecisioning/ECommerceMessageConfidenceTest.php" line="51" assertions="2" time="1.348800"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\RiskBasedDecisioning\ECommerceMessageScoreTest" file="/var/jenkins_home/jobs/MC-RiskBasedDecisioning-Php/workspace/generated-code/risk-based-decisioning/php/sdk/Test/MasterCard/Api/RiskBasedDecisioning/ECommerceMessageScoreTest.php" tests="1" assertions="6" failures="0" errors="0" time="1.098962">
+      <testcase name="test_example_score_event" class="MasterCard\Api\RiskBasedDecisioning\ECommerceMessageScoreTest" file="/var/jenkins_home/jobs/MC-RiskBasedDecisioning-Php/workspace/generated-code/risk-based-decisioning/php/sdk/Test/MasterCard/Api/RiskBasedDecisioning/ECommerceMessageScoreTest.php" line="51" assertions="6" time="1.098962"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\RiskBasedDecisioning\ECommerceMessageTest" file="/var/jenkins_home/jobs/MC-RiskBasedDecisioning-Php/workspace/generated-code/risk-based-decisioning/php/sdk/Test/MasterCard/Api/RiskBasedDecisioning/ECommerceMessageTest.php" tests="1" assertions="2" failures="0" errors="0" time="1.107492">
+      <testcase name="test_example_notify_event" class="MasterCard\Api\RiskBasedDecisioning\ECommerceMessageTest" file="/var/jenkins_home/jobs/MC-RiskBasedDecisioning-Php/workspace/generated-code/risk-based-decisioning/php/sdk/Test/MasterCard/Api/RiskBasedDecisioning/ECommerceMessageTest.php" line="51" assertions="2" time="1.107492"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
