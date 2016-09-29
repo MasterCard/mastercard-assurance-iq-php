@@ -1,0 +1,9 @@
+MasterCard\Api\AssuranceIq\ECommerceMessageConfidence
+ [x] example confidence event
+
+MasterCard\Api\AssuranceIq\ECommerceMessageScore
+ [x] example score event
+
+MasterCard\Api\AssuranceIq\ECommerceMessage
+ [x] example notify event
+
