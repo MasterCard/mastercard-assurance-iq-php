@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="3" assertions="10" failures="0" errors="0" time="1.457881">
+    <testsuite name="MasterCard\Api\AssuranceIq\ECommerceMessageConfidenceTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-AssuranceIQ-Php/workspace/generated-code/assurance-iq/php/sdk/Test/MasterCard/Api/AssuranceIq/ECommerceMessageConfidenceTest.php" tests="1" assertions="2" failures="0" errors="0" time="0.767373">
+      <testcase name="test_example_confidence_event" class="MasterCard\Api\AssuranceIq\ECommerceMessageConfidenceTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-AssuranceIQ-Php/workspace/generated-code/assurance-iq/php/sdk/Test/MasterCard/Api/AssuranceIq/ECommerceMessageConfidenceTest.php" line="54" assertions="2" time="0.767373"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\AssuranceIq\ECommerceMessageScoreTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-AssuranceIQ-Php/workspace/generated-code/assurance-iq/php/sdk/Test/MasterCard/Api/AssuranceIq/ECommerceMessageScoreTest.php" tests="1" assertions="6" failures="0" errors="0" time="0.370538">
+      <testcase name="test_example_score_event" class="MasterCard\Api\AssuranceIq\ECommerceMessageScoreTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-AssuranceIQ-Php/workspace/generated-code/assurance-iq/php/sdk/Test/MasterCard/Api/AssuranceIq/ECommerceMessageScoreTest.php" line="54" assertions="6" time="0.370538"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\AssuranceIq\ECommerceMessageTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-AssuranceIQ-Php/workspace/generated-code/assurance-iq/php/sdk/Test/MasterCard/Api/AssuranceIq/ECommerceMessageTest.php" tests="1" assertions="2" failures="0" errors="0" time="0.319970">
+      <testcase name="test_example_notify_event" class="MasterCard\Api\AssuranceIq\ECommerceMessageTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-AssuranceIQ-Php/workspace/generated-code/assurance-iq/php/sdk/Test/MasterCard/Api/AssuranceIq/ECommerceMessageTest.php" line="54" assertions="2" time="0.319970"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

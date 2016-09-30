@@ -1,0 +1,56 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 3
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageConfidenceTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageConfidenceTest",
+    "test": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageConfidenceTest::test_example_confidence_event"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageConfidenceTest",
+    "test": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageConfidenceTest::test_example_confidence_event",
+    "status": "pass",
+    "time": 0.76737308502197,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageScoreTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageScoreTest",
+    "test": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageScoreTest::test_example_score_event"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageScoreTest",
+    "test": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageScoreTest::test_example_score_event",
+    "status": "pass",
+    "time": 0.37053799629211,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageTest",
+    "test": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageTest::test_example_notify_event"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageTest",
+    "test": "MasterCard\\Api\\AssuranceIq\\ECommerceMessageTest::test_example_notify_event",
+    "status": "pass",
+    "time": 0.31997013092041,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
