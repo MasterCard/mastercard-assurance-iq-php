@@ -1,0 +1,5 @@
+TAP version 13
+ok 1 - MasterCard\Api\AssuranceIq\ECommerceMessageConfidenceTest::test_example_confidence_event
+ok 2 - MasterCard\Api\AssuranceIq\ECommerceMessageScoreTest::test_example_score_event
+ok 3 - MasterCard\Api\AssuranceIq\ECommerceMessageTest::test_example_notify_event
+1..3
