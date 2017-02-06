@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="3" assertions="0" failures="0" errors="0" time="0.001470">
+    <testsuite name="MasterCard\Api\AssuranceIq\ECommerceMessageConfidenceTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-AssuranceIQ-Php/workspace/generated-code/assurance-iq/php/sdk/Test/MasterCard/Api/AssuranceIq/ECommerceMessageConfidenceTest.php" tests="1" assertions="0" failures="0" errors="0" time="0.001313">
+      <testcase name="Warning" assertions="0" time="0.001313"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\AssuranceIq\ECommerceMessageScoreTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-AssuranceIQ-Php/workspace/generated-code/assurance-iq/php/sdk/Test/MasterCard/Api/AssuranceIq/ECommerceMessageScoreTest.php" tests="1" assertions="0" failures="0" errors="0" time="0.000064">
+      <testcase name="Warning" assertions="0" time="0.000064"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\AssuranceIq\ECommerceMessageTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-AssuranceIQ-Php/workspace/generated-code/assurance-iq/php/sdk/Test/MasterCard/Api/AssuranceIq/ECommerceMessageTest.php" tests="1" assertions="0" failures="0" errors="0" time="0.000093">
+      <testcase name="Warning" assertions="0" time="0.000093"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
